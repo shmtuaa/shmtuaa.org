@@ -1,0 +1,19 @@
+chair:
+  nickname: Chairman
+  authorlink: /about
+  mail: chair@shmtuaa.org
+
+icpc:
+  nickname: ICPC Group
+  authorlink: /icpc
+  mail: icpc@shmtuaa.org
+
+deptacademic:
+  nickname: Department of Academic
+  authorlink: /academic
+  mail: academic@shmtuaa.org
+
+deptsoftware:
+  nickname: Department of software
+  authorlink: /software
+  mail: opensource@shmtuaa.org

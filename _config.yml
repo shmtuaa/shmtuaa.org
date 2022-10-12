@@ -1,0 +1,12 @@
+baseurl: "https://shmtuaa.org"
+name: 上海海事大学算法协会
+slogan: Shanghai Maritime University Association on Algorithm
+description: SHMTU AA
+paginate: 10
+paginate_path: "page:num"
+excerpt_separator:  "<!-- more -->"
+websuffix: " - SHMTUAA"
+lighttheme: "light"
+darktheme: "dark"
+sass:
+  style: compressed

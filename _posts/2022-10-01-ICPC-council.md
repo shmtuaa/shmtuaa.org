@@ -3,6 +3,7 @@ permalink: /councilicpc
 title: Council of ICPC
 author: chair
 layout: post
+excerpt: 这里展示了ICPC Group的指导老师、学生教练和选手代表
 ---
 
 ## 指导老师

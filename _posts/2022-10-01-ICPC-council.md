@@ -5,6 +5,10 @@ author: chair
 layout: post
 ---
 
+## 指导老师
+
+董一琳 毕坤 韩玉娟
+
 ## 2023学年
 
 ### 学生教练（直接任命）
@@ -18,9 +22,9 @@ Email: [panfeiyang@shmtuaa.org](mailto:panfeiyang@shmtuaa.org)
 Email: [xuejinqi@shmtuaa.org](mailto:xuejinqi@shmtuaa.org)
 
 ### 选手代表
-| 未定  | 未定  | 未定  | 未定  |
-|:---:|:---:|:---:|:---:|
-| 未定	 | 未定	 | 未定  | 未定  |
+|    未定    |    未定    |    未定    |     未定     |
+|:--------:|:--------:|:--------:|:----------:|
+|   未定	    |   未定	    |    未定    |     未定     |
 
 ---
 

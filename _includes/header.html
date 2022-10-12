@@ -22,10 +22,28 @@
         </details>
     </div>
     <div class="Header-item mr-4 hide-sm hide-md hide-lg">
-        <a href="{{ site.baseurl }}/academic" class="Header-link f4">学术部</a>
+        <details class="dropdown details-reset details-overlay d-inline-block">
+            <summary class="Header-link f4 d-inline" aria-haspopup="true">
+                学术部
+                <div class="dropdown-caret"></div>
+            </summary>
+
+            <ul class="dropdown-menu dropdown-menu-se">
+                <li><a class="dropdown-item hide-lg" href="{{ site.baseurl }}/academic">简介</a></li>
+            </ul>
+        </details>
     </div>
-    <div class="Header-item mr-4  hide-sm hide-md hide-lg">
-        <a href="{{ site.baseurl }}/software" class="Header-link f4">软件部</a>
+    <div class="Header-item mr-4 hide-sm hide-md hide-lg">
+        <details class="dropdown details-reset details-overlay d-inline-block">
+            <summary class="Header-link f4 d-inline" aria-haspopup="true">
+                软件部
+                <div class="dropdown-caret"></div>
+            </summary>
+
+            <ul class="dropdown-menu dropdown-menu-se">
+                <li><a class="dropdown-item hide-lg" href="{{ site.baseurl }}/software">简介</a></li>
+            </ul>
+        </details>
     </div>
     <div class="Header-item mr-4 hide-sm hide-md">
         <a href="{{ site.baseurl }}/fellow" class="Header-link f4">荣誉学生</a>

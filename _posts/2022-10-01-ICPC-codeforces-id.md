@@ -3,6 +3,7 @@ permalink: /icpccfid
 title: Codeforces ID Reference
 author: icpc
 layout: post
+excerpt: 上海海事大学ICPC-Codeforces ID
 ---
 
 | 姓名   |      Codeforce ID |       Atcoder ID |

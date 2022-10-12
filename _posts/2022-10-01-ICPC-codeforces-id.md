@@ -1,6 +1,6 @@
 ---
 permalink: /icpccfid
-title: Codeforces ID reference
+title: Codeforces ID Reference
 author: icpc
 layout: post
 ---

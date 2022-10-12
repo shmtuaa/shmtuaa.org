@@ -9,7 +9,17 @@
         <a href="{{ site.baseurl }}/council" class="Header-link f4">组织架构</a>
     </div>
     <div class="Header-item mr-4 hide-sm hide-md hide-lg">
-        <a href="{{ site.baseurl }}/icpc" class="Header-link f4">ICPC组</a>
+        <details class="dropdown details-reset details-overlay d-inline-block">
+            <summary class="color-fg-muted p-2 d-inline" aria-haspopup="true">
+                ICPC组
+                <div class="dropdown-caret"></div>
+            </summary>
+
+            <ul class="dropdown-menu dropdown-menu-se">
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/icpc" class="Header-link f4">简介</a></li>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/icpccfid">Codeforces ID</a></li>
+            </ul>
+        </details>
     </div>
     <div class="Header-item mr-4 hide-sm hide-md hide-lg">
         <a href="{{ site.baseurl }}/academic" class="Header-link f4">学术部</a>
@@ -32,11 +42,23 @@
             <ul class="dropdown-menu dropdown-menu-sw">
                 <li><a class="dropdown-item hide-lg" href="{{ site.baseurl }}/about" class="Header-link f4">关于算协</a></li>
                 <li><a class="dropdown-item" href="{{ site.baseurl }}/council" class="Header-link f4">组织架构</a></li>
-                <li><a class="dropdown-item" href="{{ site.baseurl }}/icpc" class="Header-link f4">ICPC组</a></li>
-                <li><a class="dropdown-item" href="{{ site.baseurl }}/academic" class="Header-link f4">学术部</a></li>
-                <li><a class="dropdown-item" href="{{ site.baseurl }}/software" class="Header-link f4">软件部</a></li>
-                <li><a class="dropdown-item hide-lg" href="{{ site.baseurl }}/fellow" class="Header-link f4">荣誉学生</a></li>
-                <li><a class="dropdown-item hide-lg" href="{{ site.baseurl }}/recruit" class="Header-link f4">求贤纳士</a></li>
+            </ul>
+            <ul class="dropdown-menu dropdown-menu-sw">
+                <div class="dropdown-header">ICPC组</div>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/icpc" class="Header-link f4">简介</a></li>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/icpccfid">Codeforces ID</a></li>
+            </ul>
+            <ul class="dropdown-menu dropdown-menu-sw">
+                <div class="dropdown-header">学术部</div>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/academic" class="Header-link f4">简介</a></li>
+            </ul>
+            <ul class="dropdown-menu dropdown-menu-sw">
+                <div class="dropdown-header">软件部</div>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/software" class="Header-link f4">简介</a></li>
+            </ul>
+            <ul class="dropdown-menu dropdown-menu-sw hide-lg">
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/fellow" class="Header-link f4">荣誉学生</a></li>
+                <li><a class="dropdown-item" href="{{ site.baseurl }}/recruit" class="Header-link f4">求贤纳士</a></li>
             </ul>
         </details>
     </div>

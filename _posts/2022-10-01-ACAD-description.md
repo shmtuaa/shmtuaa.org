@@ -1,6 +1,6 @@
 ---
 permalink: /academic
-title: Dept. Academic@SHMTUAA
+title: Department of Academic
 author: deptacademic
 layout: post
 ---

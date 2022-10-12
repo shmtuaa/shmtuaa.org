@@ -1,6 +1,6 @@
 ---
 permalink: /icpc
-title: ICPC Group@SHMTUAA
+title: ICPC Group
 author: icpc
 layout: post
 ---

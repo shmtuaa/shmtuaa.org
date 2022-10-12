@@ -1,6 +1,6 @@
 ---
 permalink: /software
-title: Dept. Software@SHMTUAA
+title: Department of Software
 author: deptsoftware
 layout: post
 ---

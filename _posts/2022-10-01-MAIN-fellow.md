@@ -17,6 +17,7 @@ ICPC学生教练。他在同学和老师的支持下创办了ICPC。
 他现在访问于西湖大学人工智能研究与创新实验室。导师为讲席教授李子青，IEEE Fellow，在全计算机科学与电子领域顶尖科学家中位列中国第三，世界第五十九（参考谷歌学术h指数、DBLP和被引量）。
 
 Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
+GitHub: [MonoHue](https://github.com/MonoHue)
 
 ### 孙思进
 

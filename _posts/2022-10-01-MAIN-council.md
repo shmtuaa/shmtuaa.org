@@ -3,7 +3,7 @@ permalink: /council
 title: Council of Association
 author: chair
 layout: post
-exceprt: 这里展示了组织的评议协商过程中的主要参与者
+excerpt: 这里展示了组织的评议协商过程中的主要参与者
 ---
 
 ## ICPC Group

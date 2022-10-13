@@ -1,6 +1,6 @@
 ---
 permalink: /aicsmu
-title: 海智人工智能
+title: 海智人工智能俱乐部
 author: aicsmu
 layout: post
 excerpt: 这里写摘要，150字以内。

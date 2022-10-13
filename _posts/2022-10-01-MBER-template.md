@@ -18,6 +18,8 @@ excerpt: 这里写摘要，不写的话就是文章的前150字。
 
 引用的素材请放在`/assets/作者id/`的目录下，引用素材很简单，比如[这样](/assets/primer.css)就会转到网站所使用的primer css内容。
 
+引用其他文章可以[这样]({% post_url 2022-10-01-MAIN-description %})。
+
 这篇文章的源代码可以见[本网站的代码](https://github.com/shmtuaa/website)中`_posts/2022-10-01-MBER-template.md`，文件前缀需要是`年年年年-月月-日日-MBER-`。
 
 不要忘记写上自己的邮箱，比如[chair@shmtuaa.org](mailto:chair@shmtuaa.org)，你的邮箱名字一般是博客id。

@@ -23,10 +23,10 @@ aicsmu:
   authorlink: /aicsmu
   mail: cieti@shmtuaa.org
 
-deptsoftware:
-  nickname: Department of Software
-  authorlink: /software
-  mail: opensource@shmtuaa.org
+depteng:
+  nickname: Department of Engineering
+  authorlink: /engineering
+  mail: engineering@shmtuaa.org
 
 fhx:
   nickname: 双创社/Fusion HEX十六进制创科盟

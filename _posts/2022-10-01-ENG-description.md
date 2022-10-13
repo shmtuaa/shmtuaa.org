@@ -1,14 +1,14 @@
 ---
-permalink: /software
-title: Department of Software
-author: deptsoftware
+permalink: /dev
+title: Department of Engineering
+author: depteng
 layout: post
-excerpt: 进来了解算法协会软件部！
+excerpt: 进来了解算法协会工程部！
 ---
 
 ## 合作学生组织
 
-**FHX双创社**
+**双创社**
 
 主页：[https://shmtuaa.org/fhx](https://shmtuaa.org/fhx)
 

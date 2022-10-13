@@ -1,6 +1,6 @@
 ---
 permalink: /recruit
-title: 求贤纳士
+title: 加入我们
 author: chair
 layout: post
 ---

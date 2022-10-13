@@ -51,3 +51,15 @@ ICPC选手代表。周金同学获得了校史上第一块CCPC奖牌。他建立
 
 Email: [zhoujin@shmtuaa.org](mailto:zhoujin@shmtuaa.org)
 
+## 2017级
+
+### 朱恩贝
+
+_物流工程学院 自动化_
+
+ICPC选手代表。朱恩贝同学是ICPC的奠基人之一。他建立了ICPC与社团的联系，协助ICPC选手主持讲座，提供获得综合测评及第二课堂学分。作为C++专家，他长期为ICPC提供C++、C++编译器和Linux的咨询服务。
+
+他曾任微软亚洲研究院算法工程师（实习），目前就职于博达电子。
+
+Email: [zhuenbei@shmtuaa.org](mailto:zhuenbei@shmtuaa.org)
+

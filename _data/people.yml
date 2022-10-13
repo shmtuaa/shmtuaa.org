@@ -13,7 +13,27 @@ deptacademic:
   authorlink: /academic
   mail: academic@shmtuaa.org
 
+caa:
+  nickname: 计算机学会
+  authorlink: /caa
+  mail: caa@shmtuaa.org
+
+aicsmu:
+  nickname: 海智人工智能
+  authorlink: /aicsmu
+  mail: cieti@shmtuaa.org
+
 deptsoftware:
   nickname: Department of Software
   authorlink: /software
   mail: opensource@shmtuaa.org
+
+fhx:
+  nickname: FHX双创社
+  authorlink: /fhx
+  mail: fhx@shmtuaa.org
+
+cieti:
+  nickname: 信息工程学院科创中心
+  authorlink: /cieti
+  mail: cieti@shmtuaa.org

@@ -1,7 +1,7 @@
 ---
 permalink: /aicsmu
 title: 海智人工智能俱乐部
-author: aicsmu
+author: Chranos
 layout: post
 excerpt: 这里写摘要，150字以内。
 ---

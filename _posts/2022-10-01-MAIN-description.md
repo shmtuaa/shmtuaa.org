@@ -25,7 +25,7 @@ layout: post
 
 ## 成员学生组织
 
-如果您是社团负责人，希望加入算法协会，敬请致函[chair@shmtuaa.org](mailto:chair@shmtuaa.org)。
+如果您是社团负责人希望加入我们，敬请致函[chair@shmtuaa.org](mailto:chair@shmtuaa.org)。
 
 ### 学生社团
 

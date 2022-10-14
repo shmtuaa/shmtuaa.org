@@ -1,6 +1,6 @@
 ---
 permalink: /icpc
-title: ICPC Group
+title: ICPC组
 author: icpc
 layout: post
 ---

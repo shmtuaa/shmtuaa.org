@@ -3,7 +3,7 @@ permalink: /aicsmu
 title: 海智人工智能俱乐部
 author: Chranos
 layout: post
-excerpt: 这里写摘要，150字以内。
+excerpt: 试试push
 ---
 
 怎么写看这个：

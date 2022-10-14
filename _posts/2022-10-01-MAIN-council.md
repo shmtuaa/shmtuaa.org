@@ -1,12 +1,12 @@
 ---
 permalink: /council
-title: Council of Association
+title: 执行委员会
 author: chair
 layout: post
 excerpt: 这里展示了组织的评议协商过程中的主要参与者
 ---
 
-## ICPC Group
+## ICPC组
 
 **李梁裕** 学生教练 _信息工程学院 人工智能_
 

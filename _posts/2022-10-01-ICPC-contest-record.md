@@ -1,6 +1,6 @@
 ---
 permalink: /contest_record
-title: XCPC参赛纪录
+title: XCPC历届队伍
 author: icpc
 layout: post
 excerpt: 这里记录ICPC Group在ICPC/CCPC区域赛以上的参赛结果。

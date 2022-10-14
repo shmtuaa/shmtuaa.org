@@ -1,6 +1,6 @@
 ---
 permalink: /icpc
-title: ICPC组
+title: 国际大学生程序设计竞赛组
 author: icpc
 layout: post
 ---

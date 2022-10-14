@@ -1,6 +1,6 @@
 ---
 permalink: /academic
-title: Department of Academic
+title: 学术部
 author: deptacademic
 layout: post
 excerpt: 进来了解算法协会学术部！

@@ -4,12 +4,12 @@ chair:
   mail: chair@shmtuaa.org
 
 icpc:
-  nickname: ICPC Group
+  nickname: ICPC组
   authorlink: /icpc
   mail: icpc@shmtuaa.org
 
 deptacademic:
-  nickname: Department of Academic
+  nickname: 学术部
   authorlink: /academic
   mail: academic@shmtuaa.org
 
@@ -24,7 +24,7 @@ aicsmu:
   mail: cieti@shmtuaa.org
 
 depteng:
-  nickname: Department of Engineering
+  nickname: 工程部
   authorlink: /engineering
   mail: engineering@shmtuaa.org
 

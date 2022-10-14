@@ -1,6 +1,6 @@
 ---
 permalink: /dev
-title: Department of Engineering
+title: 工程部
 author: depteng
 layout: post
 excerpt: 进来了解算法协会工程部！

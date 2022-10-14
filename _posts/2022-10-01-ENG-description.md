@@ -1,5 +1,5 @@
 ---
-permalink: /dev
+permalink: /engineering
 title: 工程部
 author: depteng
 layout: post

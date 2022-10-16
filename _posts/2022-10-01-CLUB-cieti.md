@@ -3,17 +3,8 @@ permalink: /cieti
 title: 信息工程学院科创中心
 author: cieti
 layout: post
-excerpt: 这里写摘要，150字以内。
 ---
 
-怎么写看这个：
 
-不一样的是：
 
-## 第一级标题
-
-### 第二级标题
-
-邮件的写法：
-
-contact: [xxxx@shmtuaa.org](mailto:xxxx@shmtuaa.org)
+Email: [cieti@shmtuaa.org](mailto:cieti@shmtuaa.org)

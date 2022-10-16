@@ -20,6 +20,8 @@ Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
 
 GitHub: [MonoHue](https://github.com/MonoHue)
 
+Blog: [https://monohue.net](https://monohue.net) ~~最近有点忙就没更新~~会更的
+
 ### 孙思进
 
 _信息工程学院 计算机科学与技术_

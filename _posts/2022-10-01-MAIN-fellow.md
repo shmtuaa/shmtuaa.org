@@ -20,7 +20,7 @@ Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
 
 GitHub: [MonoHue](https://github.com/MonoHue)
 
-### 孙思进 
+### 孙思进
 
 _信息工程学院 计算机科学与技术_
 

@@ -1,7 +1,7 @@
 ---
 permalink: /aicsmu
 title: 海智人工智能俱乐部
-author: Chranos
+author: aicsmu
 layout: post
 excerpt: 本网站暂用于社团宣传
 ---

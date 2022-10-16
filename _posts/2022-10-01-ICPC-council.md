@@ -1,5 +1,5 @@
 ---
-permalink: /councilicpc
+permalink: /icpc/council
 title: ICPC组执行委员会
 author: chair
 layout: post

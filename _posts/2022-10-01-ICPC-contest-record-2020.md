@@ -1,5 +1,5 @@
 ---
-permalink: /contest_record_2020
+permalink: /icpc/contest_record_2020
 title: 2020年XCPC参赛纪录
 author: icpc
 layout: post

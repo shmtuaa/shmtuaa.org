@@ -16,7 +16,7 @@ Email: [fhx@shmtuaa.org](mailto:fhx@shmtuaa.org)
 
 **双电联盟**
 
-主页：[https://shmtuaa.org/fhx](https://shmtuaa.org/ee)
+主页：[https://shmtuaa.org/ee](https://shmtuaa.org/ee)
 
 Email: [ee@shmtuaa.org](mailto:ee@shmtuaa.org)
 

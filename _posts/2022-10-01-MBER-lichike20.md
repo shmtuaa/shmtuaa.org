@@ -16,7 +16,7 @@ excerpt: 这里写摘要，不写的话就是文章的前150字。
 
 请参考[这个链接](https://help.github.com/articles/basic-writing-and-formatting-syntax)写作。
 
-引用的素材请放在`/assets/作者id/`的目录下，引用素材很简单，比如[这样](/assets/primer.css)就会转到网站所使用的primer css内容。
+引用的素材请放在`/assets/作者id/`的目录下，引用素材很简单，比如[这样](/assets/css/primer.css)就会转到网站所使用的primer css内容。
 
 这篇文章的源代码可以见[本网站的代码](https://github.com/shmtuaa/website)中`_posts/2022-10-01-MBER-template.md`，文件前缀需要是`年年年年-月月-日日-MBER-`。
 

@@ -12,10 +12,10 @@ excerpt: 进来了解算法协会学术部！
 
 主页：[https://shmtuaa.org/caa](https://shmtuaa.org/caa)
 
-Email：[caa@shmtuaa.org](mailto:caa@shmtuaa.org)
+Email: [caa@shmtuaa.org](mailto:caa@shmtuaa.org)
 
 **海智人工智能俱乐部**
 
 主页：[https://shmtuaa.org/aicsmu](https://shmtuaa.org/aicsmu)
 
-Email：[aicsmu@shmtuaa.org](mailto:aicsmu@shmtuaa.org)
+Email: [aicsmu@shmtuaa.org](mailto:aicsmu@shmtuaa.org)

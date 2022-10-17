@@ -49,6 +49,12 @@ Email：[fhx@shmtuaa.org](mailto:fhx@shmtuaa.org)
 
 Email：[aicsmu@shmtuaa.org](mailto:aicsmu@shmtuaa.org)
 
+**双电联盟**
+
+主页：[https://shmtuaa.org/e2union](https://shmtuaa.org/e2union)
+
+Email：[e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
+
 ### 学生组织
 
 **信息工程学院科创中心**

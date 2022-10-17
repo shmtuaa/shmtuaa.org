@@ -34,14 +34,13 @@ layout: post
 
 ## 社团活动室内景
 
-<img src="../assets/e2union/img/sys_318.png">
-<img src="../assets/e2union/img/sys_314.png">
-<img src="../assets/e2union/img/sys_316.png">
+![sys_318](../assets/e2union/img/sys_318.png")
+![sys_314](../assets/e2union/img/sys_314.png")
+![sys_316](../assets/e2union/img/sys_316.png")
 
 ## 社员部分荣誉
 
 ![award_ti_2021](../assets/e2union/img/award_ti_2021.jpg)
-
 ![award_water_robo_2021](../assets/e2union/img/award_water_robo_2021.jpg)
 
 ## 招新信息

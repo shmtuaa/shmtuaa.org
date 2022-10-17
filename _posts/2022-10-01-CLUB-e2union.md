@@ -34,9 +34,9 @@ layout: post
 
 ## 社团活动室内景
 
-![sys_318](../assets/e2union/img/sys_318.png")
-![sys_314](../assets/e2union/img/sys_314.png")
-![sys_316](../assets/e2union/img/sys_316.png")
+![sys_318](../assets/e2union/img/sys_318.png)
+![sys_314](../assets/e2union/img/sys_314.png)
+![sys_316](../assets/e2union/img/sys_316.png)
 
 ## 社员部分荣誉
 

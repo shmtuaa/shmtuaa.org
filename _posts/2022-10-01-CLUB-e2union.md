@@ -1,7 +1,7 @@
 ---
 permalink: /e2union
 title: 双电联盟 基础实验实训中心
-author: sjsun
+author: e2union
 layout: post
 ---
 

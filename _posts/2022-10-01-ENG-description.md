@@ -16,9 +16,9 @@ Email: [fhx@shmtuaa.org](mailto:fhx@shmtuaa.org)
 
 **双电联盟**
 
-主页：[https://shmtuaa.org/ee](https://shmtuaa.org/ee)
+主页：[https://shmtuaa.org/e2union](https://shmtuaa.org/e2union)
 
-Email: [ee@shmtuaa.org](mailto:ee@shmtuaa.org)
+Email: [e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
 
 **信息工程学院科创中心**
 

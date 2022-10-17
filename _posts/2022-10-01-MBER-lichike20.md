@@ -25,3 +25,38 @@ excerpt: 这里写摘要，不写的话就是文章的前150字。
 一般的博客请不要在Markdown最前面写`permalink`一栏。
 
 欢迎开设自己的博客，请联系你所在学生组织的社长/主任/主席/~~头号人物~~。
+
+## 之后可能会添加的内容
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]

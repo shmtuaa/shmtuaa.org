@@ -40,9 +40,9 @@ layout: post
 
 ## 社员部分荣誉
 
-<img src="../assets/e2union/img/award_ti_2021.jpg" height="540" width="720">
+![award_ti_2021](../assets/e2union/img/award_ti_2021.jpg)
 
-<img src="../assets/e2union/img/award_water_robo_2021.jpg" height="540" width="720">
+![award_water_robo_2021](../assets/e2union/img/award_water_robo_2021.jpg)
 
 ## 招新信息
 

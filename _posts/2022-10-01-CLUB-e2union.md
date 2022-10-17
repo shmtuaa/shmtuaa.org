@@ -47,11 +47,10 @@ layout: post
 
 今年的百团大战将改在线上进行，以下是我们的加入方式和往年的招新照片：
 
-<img src="../assets/e2union/img/welcome_1.jpg" width="300" height="200">
-<img src="../assets/e2union/img/welcome_2.jpg" width="300" height="200">
-
-<img src="../assets/e2union/img/welcome_3.jpg" width="300" height="200">
-<img src="../assets/e2union/img/welcome_4.jpg" width="300" height="200">
+![welcome_1](../assets/e2union/img/welcome_1.jpg)
+![welcome_2](../assets/e2union/img/welcome_2.jpg)
+![welcome_3](../assets/e2union/img/welcome_3.jpg)
+![welcome_4](../assets/e2union/img/welcome_4.jpg)
 
 **加入方式**:进入QQ群，即可加入我们的活动和讨论
 

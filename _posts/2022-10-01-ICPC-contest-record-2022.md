@@ -1,6 +1,6 @@
 ---
 permalink: /icpc/contest_record_2022
-title: 2022年XCPC参赛纪录
+title: 2022学年XCPC参赛纪录
 author: icpc
 layout: post
 excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍。

@@ -1,6 +1,6 @@
 ---
 permalink: /icpc/contest_record_2021
-title: 2021年XCPC参赛纪录
+title: 2021学年XCPC参赛纪录
 author: icpc
 layout: post
 excerpt: 这里记录ICPC Group在2021年XCPC区域赛及以上的参赛队伍。

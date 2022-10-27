@@ -1,5 +1,5 @@
 ---
-permalink: /councilicpc
+permalink: /icpc/council
 title: ICPC组执行委员会
 author: chair
 layout: post
@@ -36,8 +36,6 @@ Email: [xuejinqi@shmtuaa.org](mailto:xuejinqi@shmtuaa.org)
 |    未定    |    未定    |    未定    |     未定     |
 |:--------:|:--------:|:--------:|:----------:|
 |   未定	    |   未定	    |    未定    |     未定     |
-
----
 
 ## 早期（2020、2021、2022学年）
 

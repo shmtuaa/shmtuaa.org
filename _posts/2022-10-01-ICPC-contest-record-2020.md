@@ -1,9 +1,9 @@
 ---
-permalink: /contest_record_2020
-title: 2020年XCPC参赛纪录
+permalink: /icpc/contest_record_2020
+title: 2020学年XCPC参赛纪录
 author: icpc
 layout: post
-excerpt: 这里记录ICPC Group在2020年XCPC区域赛以上的参赛结果。
+excerpt: 这里记录ICPC Group在2020年XCPC区域赛及以上的参赛队伍。
 ---
 
 ## 45th ICPC Shanghai Regional

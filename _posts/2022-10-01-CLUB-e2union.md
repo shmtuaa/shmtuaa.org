@@ -1,7 +1,7 @@
 ---
 permalink: /e2union
 title: 双电联盟 基础实验实训中心
-author: sjsun
+author: e2union
 layout: post
 ---
 
@@ -62,14 +62,11 @@ Email: [e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
 
 ## 社团活动室内景
 
-<img src="../assets/e2union/img/sys_318.png">
-
-<img src="../assets/e2union/img/sys_314.png">
-
-<img src="../assets/e2union/img/sys_316.png">
+![sys_318](../assets/e2union/img/sys_318.png)
+![sys_314](../assets/e2union/img/sys_314.png)
+![sys_316](../assets/e2union/img/sys_316.png)
 
 ## 社员部分荣誉
 
-<img src="../assets/e2union/img/award_ti_2021.jpg" height="540" width="720">
-
-<img src="../assets/e2union/img/award_water_robo_2021.jpg" height="540" width="720">
+![award_ti_2021](../assets/e2union/img/award_ti_2021.jpg)
+![award_water_robo_2021](../assets/e2union/img/award_water_robo_2021.jpg)

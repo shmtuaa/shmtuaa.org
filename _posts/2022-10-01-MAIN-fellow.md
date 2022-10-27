@@ -20,6 +20,8 @@ Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
 
 GitHub: [MonoHue](https://github.com/MonoHue)
 
+Blog: [https://monohue.net](https://monohue.net) ~~最近有点忙就没更新~~会更的
+
 ### 孙思进
 
 _信息工程学院 计算机科学与技术_
@@ -58,7 +60,7 @@ _信息工程学院 计算机科学与技术_
 
 双创社。校野生车万人代表，搞项目落地的。专注前后端开发1年，嵌入式也搞过一点。学的比较杂，可能是因为之前是从电气系转专业过来的。似乎掌握的理论还有所欠缺，于是就保研到中科院进行一个理论的学习。目前方向是机器学习，但是老师啥都干（机器学习，视觉，图形学），于是就啥都学。人生目标是当大学老师，没事喜欢给萌新讲基础概念，有问题随时可以问！但是回答可能会延时几分钟到几天。
 
-就读于中国科学院大学工程科学学院，由于22年国庆节之后整个UCAS上了未证实名单，大概率是要在UCAS硕博连读了。
+就读于中国科学院大学（**U**niversity of **C**hinese **A**cademy of **S**ciences）工程科学学院，由于22年国庆节之后整个UCAS上了未证实名单，大概率是要在UCAS硕博连读了。
 
 Email: [luoxiang@shmtuaa.org](mailto:luoxiang@shmtuaa.org)
 

@@ -1,7 +1,7 @@
 ---
 permalink: /aicsmu
 title: 海智人工智能俱乐部
-author: Chranos
+author: aicsmu
 layout: post
 excerpt: 本网站暂用于社团宣传
 ---
@@ -48,7 +48,7 @@ AIC代表Artificial Intelligence Club，SMU代表上海海事大学，环绕圆�
 
 图4 2020/11/11 Python图像处理教学活动1
 
-![2020/11/11_Python图像处理教学活动](../assets/aicsmu/img/20201111-2.png)
+![2020/11/11_Python图像处理教学活动](../assets/aicsmu/img/20201111-2.jpg)
 
 图5 2020/11/11 Python图像处理教学活动2
 

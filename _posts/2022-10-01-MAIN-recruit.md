@@ -42,10 +42,10 @@ ICPC每学年会组织新同学试水活动，帮助新同学了解并加入算�
 
 ## 学术部
 
-如果您是教师，希望在这里发布科研或项目招生，敬请垂询[chair@shmtuaa.org](mailto:chair@shmtuaa.org)
+如果您是教师，希望在这里发布科研或项目招生，敬请垂询[academic@shmtuaa.org](mailto:academic@shmtuaa.org)
 
 ## 工程部
 
-如果您是社团负责人，或拥有成熟的关于软件或硬件的项目构想与经验，敬请致函[chair@shmtuaa.org](mailto:chair@shmtuaa.org)。
+如果您是社团负责人，或拥有成熟的关于软件或硬件的项目构想与经验，敬请致函[engineering@shmtuaa.org](mailto:engineering@shmtuaa.org)。
 
 目前，我们正在邀请有经验、有成果的同学参与指导工程部的活动。

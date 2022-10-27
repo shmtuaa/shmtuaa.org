@@ -1,5 +1,6 @@
+# User Defined
 baseurl: "https://shmtuaa.org"
-name: 上海海事大学算法协会
+title: 上海海事大学算法协会
 slogan: Shanghai Maritime University Association on Algorithm
 description: SHMTU AA
 paginate: 10
@@ -8,5 +9,17 @@ excerpt_separator:  "<!-- more -->"
 websuffix: " - 上海海事大学算法协会"
 lighttheme: "light"
 darktheme: "dark"
+
+# System Conf
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 sass:
   style: compressed
+

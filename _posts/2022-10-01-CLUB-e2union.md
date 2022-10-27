@@ -7,6 +7,34 @@ layout: post
 
 <img src="../assets/e2union/img/main_logo.png" width="128" height="128">
 
+## 招新介绍
+
+你说得对，但是“双电联盟”是依托电工电子实验中心的一个一个科创实践社团（不是电竞社团喵，不是电竞社团谢谢喵），有着科技感十足的实验室，
+以及一应俱全的设备。这里没有无数的条条框框，只有动手实践的快乐和天马行空的创造。大家可以在社团中成为电子手工天才，动手制作圣诞树、
+电子时钟、电子昆虫等等有趣的东西，还可以为丰富阅历，参加竞赛、科创项目，例如水下机器人竞赛、“TI杯”、“西门子杯”等等，专业老师带队指导，
+为自己的简历增添浓墨重彩的一笔。另外，二课多多，综测多多哦！不用担心自己零基础零技能，我们会定期安排教学培训，只要你有信心有态度有热情，
+就一定能学有所成满载而归！！！看到这，下一步你们要做的事情是--报名报名报名！！！
+
+**加入方式**:进入QQ群，即可加入我们的活动和讨论
+
+459761316
+
+<img src="../assets/e2union/img/group_qrcode.jpg" width="300">
+
+Email: [e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
+
+## 招新信息
+
+今年的百团大战将改在线上进行，以下是我们的加入方式和往年的招新照片：
+
+<img src="../assets/e2union/img/welcome_1.jpg" width="300" height="200">
+<img src="../assets/e2union/img/welcome_2.jpg" width="300" height="200">
+
+<img src="../assets/e2union/img/welcome_3.jpg" width="300" height="200">
+<img src="../assets/e2union/img/welcome_4.jpg" width="300" height="200">
+
+## 社团依托
+
 上海海事大学结合一流本科人才培养计划，创建卓越工程师培养平台，旨在培养具有自主创新创业素养的高层次人才。
 双电联盟-作为卓越工程师平台下培养大学生创新创业实践动手能力和创新思维意识的培养性社团，结合上海海事大学学科特色，
 联合学院学科团队和高新科技产业，目标建设成为在海洋无人自主航行器、海洋水下无人航行器、空中无人飞行器、
@@ -42,19 +70,3 @@ layout: post
 
 ![award_ti_2021](../assets/e2union/img/award_ti_2021.jpg)
 ![award_water_robo_2021](../assets/e2union/img/award_water_robo_2021.jpg)
-
-## 招新信息
-
-今年的百团大战将改在线上进行，以下是我们的加入方式和往年的招新照片：
-
-![welcome_1](../assets/e2union/img/welcome_1.jpg)
-![welcome_2](../assets/e2union/img/welcome_2.jpg)
-
-![welcome_3](../assets/e2union/img/welcome_3.jpg)
-![welcome_4](../assets/e2union/img/welcome_4.jpg)
-
-**加入方式**:进入QQ群，即可加入我们的活动和讨论
-
-459761316
-
-Email: [e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)

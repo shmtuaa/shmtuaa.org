@@ -40,7 +40,7 @@ Email: [fhx@shmtuaa.org](mailto:fhx@shmtuaa.org)
 
 **白证阳** 社长 _物流工程学院 机械电子工程(中荷)_
 
-Email: [ee@shmtuaa.org](mailto:ee@shmtuaa.org)
+Email: [e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
 
 ### 信息工程学院科创中心
 

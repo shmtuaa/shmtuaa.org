@@ -37,17 +37,23 @@ layout: post
 
 Email：[caa@shmtuaa.org](mailto:caa@shmtuaa.org)
 
+**海智人工智能俱乐部**
+
+主页：[https://shmtuaa.org/aicsmu](https://shmtuaa.org/aicsmu)
+
+Email：[aicsmu@shmtuaa.org](mailto:aicsmu@shmtuaa.org)
+
 **双创社**
 
 主页：[https://shmtuaa.org/fhx](https://shmtuaa.org/fhx)
 
 Email：[fhx@shmtuaa.org](mailto:fhx@shmtuaa.org)
 
-**海智人工智能俱乐部**
+**双电联盟**
 
-主页：[https://shmtuaa.org/aicsmu](https://shmtuaa.org/aicsmu)
+主页：[https://shmtuaa.org/e2union](https://shmtuaa.org/e2union)
 
-Email：[aicsmu@shmtuaa.org](mailto:aicsmu@shmtuaa.org)
+Email：[e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
 
 ### 学生组织
 

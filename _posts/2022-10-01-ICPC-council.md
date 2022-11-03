@@ -1,7 +1,7 @@
 ---
 permalink: /icpc/council
 title: ICPC组执行委员会
-author: chair
+author: icpc
 layout: post
 excerpt: 这里展示了ICPC Group的指导老师、学生教练和选手代表
 ---

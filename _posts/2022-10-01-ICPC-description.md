@@ -35,6 +35,8 @@ ICPC的QQ群号是1148691694。
 
 ## 常用链接
 
+[选手ID](/icpc/id)
+
 [参赛记录](/icpc/contest_record)
 
-[选手ID](/icpc/id)
+[XCPC获奖记录](/icpc/award)

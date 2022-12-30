@@ -1,6 +1,6 @@
 ---
 permalink: /fellow
-title: 荣誉学生
+title: 往届学生
 author: chair
 layout: post
 excerpt: 这里展示了我们的优秀学生

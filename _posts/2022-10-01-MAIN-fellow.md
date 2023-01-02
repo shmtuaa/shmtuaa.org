@@ -16,11 +16,10 @@ _信息工程学院 人工智能_
 
 他现在访问于西湖大学人工智能研究与创新实验室。导师为讲席教授李子青，IEEE Fellow，在全计算机科学与电子领域顶尖科学家中位列中国第三，世界第五十九（参考谷歌学术h指数、DBLP和被引量）。
 
-Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
-
-GitHub: [MonoHue](https://github.com/MonoHue)
-
-Blog: [https://monohue.net](https://monohue.net) ~~最近有点忙就没更新~~会更的
+**Email**: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)  
+**GitHub**: [MonoHue](https://github.com/MonoHue)  
+**Google Scholar**: [Liangyu Li](https://scholar.google.com/citations?user=AcMka74AAAAJ)  
+**Blog**: [https://monohue.net](https://monohue.net) ~~最近有点忙就没更新~~会更的
 
 ### 孙思进
 
@@ -30,7 +29,7 @@ _信息工程学院 计算机科学与技术_
 
 他现在实习于Société Générale (Shanghai) Operation Department。Société Générale是法国银行业三巨头之一，世界上最大的投资银行之一。
 
-Email: [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org)
+**Email**: [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org)
 
 ## 2019级
 
@@ -40,7 +39,7 @@ _物流工程学院 电气工程及自动化_
 
 校ICPC选手代表。杜逸杰同学是ICPC的奠基人之一。他长期担任ICPC的线下培训工作，为所有零基础同学提供教学。在他的指导下，数十位同学获得了蓝桥杯省级奖项，数位同学获得了国家级奖项。 他保研至江南大学。
 
-Email: [yijiedu@shmtuaa.org](mailto:yijiedu@shmtuaa.org)
+**Email**: [yijiedu@shmtuaa.org](mailto:yijiedu@shmtuaa.org)
 
 ### 周金
 
@@ -50,7 +49,7 @@ _信息工程学院 计算机科学与技术_
 
 他保研至深圳大学计算机图形学与虚拟现实实验室。在计算机图形学领域，该实验室位列中国第二，世界第十九(CSRanking，参考计算机图形学顶级会议ACM SIGGRAPH的发表情况)。
 
-Email: [zhoujin@shmtuaa.org](mailto:zhoujin@shmtuaa.org)
+**Email**: [zhoujin@shmtuaa.org](mailto:zhoujin@shmtuaa.org)
 
 ## 2018级
 
@@ -62,9 +61,8 @@ _信息工程学院 计算机科学与技术_
 
 就读于中国科学院大学（**U**niversity of **C**hinese **A**cademy of **S**ciences）工程科学学院，由于22年国庆节之后整个UCAS上了未证实名单，大概率是要在UCAS硕博连读了。
 
-Email: [luoxiang@shmtuaa.org](mailto:luoxiang@shmtuaa.org)
-
-Website: [https://flandre.net](https://flandre.net)
+**Email**: [luoxiang@shmtuaa.org](mailto:luoxiang@shmtuaa.org)  
+**Website**: [https://flandre.net](https://flandre.net)
 
 ## 2017级
 
@@ -76,5 +74,5 @@ _物流工程学院 自动化_
 
 他曾任微软亚洲研究院算法工程师（实习），目前就职于博达电子。
 
-Email: [zhuenbei@shmtuaa.org](mailto:zhuenbei@shmtuaa.org)
+**Email**: [zhuenbei@shmtuaa.org](mailto:zhuenbei@shmtuaa.org)
 

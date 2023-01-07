@@ -12,14 +12,14 @@ excerpt: 这里展示了我们的优秀学生
 
 _信息工程学院 人工智能_
 
-校ICPC学生教练。他在同学和老师的支持下创办了ICPC。
+学校ICPC的创办者和学生教练。
 
-他现在访问于西湖大学人工智能研究与创新实验室。导师为讲席教授李子青，IEEE Fellow，在全计算机科学与电子领域顶尖科学家中位列中国第三，世界第五十九（参考谷歌学术h指数、DBLP和被引量）。
+他现在访问于西湖大学人工智能研究与创新实验室，导师为[人工智能讲席教授李子青](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)。
 
 **Email**: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)  
 **GitHub**: [MonoHue](https://github.com/MonoHue)  
 **Google Scholar**: [Liangyu Li](https://scholar.google.com/citations?user=AcMka74AAAAJ)  
-**Blog**: [https://monohue.net](https://monohue.net) ~~最近有点忙就没更新~~会更的
+**Blog**: [https://monohue.net](https://monohue.net)
 
 ### 孙思进
 
@@ -27,7 +27,7 @@ _信息工程学院 计算机科学与技术_
 
 校ICPC选手。孙思进同学是最早期加入ICPC的同学之一。他协助形成了ICPC的社群和早期规范。
 
-他现在实习于Société Générale (Shanghai) Operation Department。Société Générale是法国银行业三巨头之一，世界上最大的投资银行之一。
+他现在实习于Société Générale (Shanghai) Operation Department。
 
 **Email**: [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org)
 
@@ -47,7 +47,7 @@ _信息工程学院 计算机科学与技术_
 
 校ICPC选手代表。周金同学获得了校史上第一块CCPC奖牌。他建立了良好的竞赛交流氛围，指导数届新生参与训练及答疑。
 
-他保研至深圳大学计算机图形学与虚拟现实实验室。在计算机图形学领域，该实验室位列中国第二，世界第十九(CSRanking，参考计算机图形学顶级会议ACM SIGGRAPH的发表情况)。
+他保研至[深圳大学可视计算研究中心](http://vcc.tech/)。
 
 **Email**: [zhoujin@shmtuaa.org](mailto:zhoujin@shmtuaa.org)
 

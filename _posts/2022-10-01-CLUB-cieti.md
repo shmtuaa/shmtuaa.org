@@ -7,7 +7,7 @@ layout: post
 
 
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/logo.png)
+![](assets/cieti/logo.png)
 
 在喜欢你的人那里，去热爱生活。在不喜欢你的人那里，去看清世界。就这么简单。——莫言
 
@@ -22,13 +22,13 @@ layout: post
 
 科创部主要负责“新生杯”“挑战杯”等各项比赛，从前期立项到完成比赛。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image1.1.png)
+![](assets/cieti/image1.1.png)
 
 **实践部**
 
 实践部主要负责实践队伍的活动，如实践队立项答辩、实践队实时跟进、收集实践材料、筹划实践答辩等。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image1.2.png)
+![](assets/cieti/image1.2.png)
 
 ## 活动介绍
 
@@ -38,15 +38,15 @@ layout: post
 
 新生杯是面向信息工程学院大一新生的比赛，目的是让大一新生对编程类竞赛有一定的了解以及适当选拔一些优秀的同学进行进一步的培养。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image2.1.png)
+![](assets/cieti/image2.1.png)
 
 **实践活动**
 
 实践活动主要是提供能让同学们有亲手操作一些电子设备的机会，让同学们了解一些课堂之外的知识。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image3.1.png)
+![](assets/cieti/image3.1.png)
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image3.2.jpg)
+![](assets/cieti/image3.2.jpg)
 
 *（由科创中心协助举办的活动：*
 
@@ -54,7 +54,7 @@ layout: post
 
 科创中心主要是协助举办这个比赛，负责宣传和场地选择等一些辅助性事项。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image4.1.png)
+![](assets/cieti/image4.1.png)
 
 ## 加入方式
 

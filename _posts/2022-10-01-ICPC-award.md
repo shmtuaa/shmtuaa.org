@@ -1,9 +1,9 @@
 ---
 permalink: /icpc/award
-title: XCPC获奖记录
+title: 获奖记录
 author: icpc
 layout: post
-excerpt: XCPC铜牌及以上的获奖记录
+excerpt: 国际大学生程序设计竞赛或中国大学生程序设计竞赛中，获得铜牌及以上的奖项的记录
 ---
 
 ## 2022

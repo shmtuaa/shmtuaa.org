@@ -1,9 +1,9 @@
 ---
 permalink: /icpc/council
-title: ICPC组执行委员会
+title: ICPC执行委员会
 author: icpc
 layout: post
-excerpt: 这里展示了ICPC Group的指导老师、学生教练和选手代表
+excerpt: 这里展示了ICPC的指导老师、学生教练和选手代表
 ---
 
 ICPC由指导老师授权，学生教练和选手代表共同领导、组织训练及参加比赛。

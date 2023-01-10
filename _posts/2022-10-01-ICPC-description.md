@@ -1,15 +1,22 @@
 ---
 permalink: /icpc
-title: 国际大学生程序设计竞赛组
+title: 国际大学生程序设计竞赛团队
 author: icpc
 layout: post
 ---
 
-国际大学生程序设计竞赛（**I**nternational **C**ollegiate **P**rogramming **C**ontest，俗称ACM）组是2020年学生自发成立的组织。 我们致力于提供算法竞赛（ICPC，蓝桥杯）的支持与服务。
+国际大学生程序设计竞赛（**I**nternational **C**ollegiate **P**rogramming **C**ontest，俗称ACM）团队是2020年学生自发成立的组织。我们致力于提供算法竞赛（ICPC，蓝桥杯）的支持与服务。
 
 <!-- more -->
 
-根据上海海事大学对社团管理的相关规定，ICPC组作为计算机学会的部门组织活动。
+根据上海海事大学对社团管理的相关规定，ICPC团队作为计算机学会的部门组织活动。
+
+国际大学生程序设计竞赛团队由指导老师授权，学生教练和选手代表共同领导、组织训练及参加比赛，具体人员见[这个链接](/icpc/council)。
+
+***联系我们***
+
+**QQ群**: [1148691694](https://qm.qq.com/cgi-bin/qm/qr?k=MYEd-JPL6lIWn6MfakgW2dRzTJU0Z8V9&jump_from=webapi&authKey=7PBZfKIFyLCiKT4jWC8CzM+vih8aV6Qde6GQR83BjJhbie3gqFtmU1K+PJ+J4Dvf)  
+**Email**:  [icpc@shmtuaa.org](mailto:icpc@shmtuaa.org)
 
 ## 关于国际大学生程序设计竞赛
 
@@ -35,8 +42,8 @@ ICPC的QQ群号是1148691694。
 
 ## 常用链接
 
-[选手ID](/icpc/id)
+[选手ID索引](/icpc/id)
 
 [参赛记录](/icpc/contest_record)
 
-[XCPC获奖记录](/icpc/award)
+[获奖记录](/icpc/award)

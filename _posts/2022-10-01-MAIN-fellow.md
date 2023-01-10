@@ -19,7 +19,7 @@ _信息工程学院 人工智能_
 **Email**: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)  
 **GitHub**: [MonoHue](https://github.com/MonoHue)  
 **Google Scholar**: [Liangyu Li](https://scholar.google.com/citations?user=AcMka74AAAAJ)  
-**Blog**: [https://monohue.net](https://monohue.net)
+**Blog**: [https://monohue.net](https://me.monohue.net)
 
 ### 孙思进
 

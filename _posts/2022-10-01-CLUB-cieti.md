@@ -45,6 +45,7 @@ layout: post
 实践活动主要是提供能让同学们有亲手操作一些电子设备的机会，让同学们了解一些课堂之外的知识。
 
 ![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image3.1.png)
+
 ![](https://github.com/BiscuitsAndCats/shmtuaa.org/blob/main/assets/Cieti/image3.2.jpg)
 
 *（由科创中心协助举办的活动：*

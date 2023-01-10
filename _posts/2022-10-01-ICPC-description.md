@@ -11,12 +11,20 @@ layout: post
 
 根据上海海事大学对社团管理的相关规定，ICPC团队作为计算机学会的部门组织活动。
 
-国际大学生程序设计竞赛团队由指导老师授权，学生教练和选手代表共同领导、组织训练及参加比赛，具体人员见[这个链接](/icpc/council)。
+国际大学生程序设计竞赛团队由指导老师授权，学生教练和选手代表共同领导、组织训练及参加比赛。
 
 ***联系我们***
 
 **QQ群**: [1148691694](https://qm.qq.com/cgi-bin/qm/qr?k=MYEd-JPL6lIWn6MfakgW2dRzTJU0Z8V9&jump_from=webapi&authKey=7PBZfKIFyLCiKT4jWC8CzM+vih8aV6Qde6GQR83BjJhbie3gqFtmU1K+PJ+J4Dvf)  
 **Email**:  [icpc@shmtuaa.org](mailto:icpc@shmtuaa.org)
+
+***更多信息***
+
+**执行委员会**: [https://shmtuaa.org/icpc/council](https://shmtuaa.org/icpc/council)  
+**选手ID索引**: [https://shmtuaa.org/icpc/id](https://shmtuaa.org/icpc/id)  
+**参赛记录**: [https://shmtuaa.org/icpc/contest_record](https://shmtuaa.org/icpc/contest_record)  
+**获奖记录**: [https://shmtuaa.org/icpc/award](https://shmtuaa.org/icpc/award)  
+**往届学生**: [https://fellow.shmtuaa.org](https://fellow.shmtuaa.org)
 
 ## 关于国际大学生程序设计竞赛
 
@@ -39,11 +47,3 @@ ICPC长期招募有意愿参加算法竞赛的同学，详见[这个链接](/rec
 ICPC每学年会组织新同学试水活动，帮助新同学了解并加入算法竞赛。信息工程学院的同学可关注第一学期辅导员通知。
 
 ICPC的QQ群号是1148691694。
-
-## 常用链接
-
-[选手ID索引](/icpc/id)
-
-[参赛记录](/icpc/contest_record)
-
-[获奖记录](/icpc/award)

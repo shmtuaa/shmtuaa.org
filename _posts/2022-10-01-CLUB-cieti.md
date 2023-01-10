@@ -7,7 +7,7 @@ layout: post
 
 
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/bold/main/assets/Cieti/logo.png)
+![](https://github.com/BiscuitsAndCats/shmtuaa.org/bolb/main/assets/Cieti/logo.png)
 
 在喜欢你的人那里，去热爱生活。在不喜欢你的人那里，去看清世界。就这么简单。——莫言
 
@@ -22,13 +22,13 @@ layout: post
 
 科创部主要负责“新生杯”“挑战杯”等各项比赛，从前期立项到完成比赛。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/bold/main/assets/Cieti/image1.1.png)
+![](https://github.com/BiscuitsAndCats/shmtuaa.org/bolb/main/assets/Cieti/image1.1.png)
 
 **实践部**
 
 实践部主要负责实践队伍的活动，如实践队立项答辩、实践队实时跟进、收集实践材料、筹划实践答辩等。
 
-![](https://github.com/BiscuitsAndCats/shmtuaa.org/bold/main/assets/Cieti/image1.2.png)
+![](https://github.com/BiscuitsAndCats/shmtuaa.org/bolb/main/assets/Cieti/image1.2.png)
 
 ## 活动介绍
 

@@ -36,7 +36,7 @@ layout: post
 
 ICPC同时负责提供提供高校/企业举办的竞赛参与机会和咨询服务，主办单位包括但不限于清北、字节、Google等。
 
-我校ICPC由董一琳老师和毕坤老师共同指导。
+上海海事大学ICPC由周卫祥老师共同指导。
 
 ICPC东亚区域官网：[https://icpc.pku.edu.cn](https://icpc.pku.edu.cn)
 

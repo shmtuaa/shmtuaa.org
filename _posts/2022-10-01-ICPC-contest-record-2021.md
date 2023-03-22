@@ -12,7 +12,7 @@ excerpt: 这里记录ICPC Group在2021年XCPC区域赛及以上的参赛队伍�
 
 | 队伍      | Team                | 队员一 | 队员二 | 队员三 |
 |:--------|:--------------------|----:|----:|----:|
-| 小白小白向前冲 | Newbie move forward | 杜沛嵘 | 常瑞妍 | 张晴晴 |
+| 小白小白向前冲 | Newbie move forward | 杜沛嵘 | 常瑞妍 | 潘欣洁 |
 | 圣嘉然的信徒  | Diana's Cerberus    |  徐鑫 |  应懿 | 洪一芃 |
 
 ## 46th ICPC Nanjing Regional

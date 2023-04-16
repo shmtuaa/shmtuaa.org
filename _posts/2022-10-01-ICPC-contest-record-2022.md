@@ -6,7 +6,7 @@ layout: post
 excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍。
 ---
 
-## 2022 ICPC 西安站
+## 47th ICPC Xi'an Regional
 
 志愿者：李驰科 孙思进
 
@@ -14,7 +14,7 @@ excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍�
 |:-----|:-----------------|----:|----:|----:|
 | 仨个顶零 | three equal zero |  丁鹏 | 陆锦云 | 周子洋 |
 
-## 2022 ICPC 合肥站
+## 47th ICPC Hefei Regional
 
 志愿者：陆锦云
 
@@ -22,7 +22,7 @@ excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍�
 |:---------|:----------------------------|----:|----:|----:|
 | 不擅长起名困难症 | name is too hard to come up | 潘飞扬 | 薛津麒 | 骆明宇 |
 
-## 2022 ICPC 济南站
+## 47th ICPC Jinan Regional
 
 志愿者：丁鹏
 
@@ -30,7 +30,7 @@ excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍�
 |:-------|:------------------------------------|----:|----:|----:|
 | 开学就算成功 | Is this a Correspondence University | 胡小川 | 李驰科 |  邓明 |
 
-## 2022 ICPC 杭州站
+## 47th ICPC Hangzhou Regional
 
 志愿者：潘飞扬
 
@@ -38,7 +38,7 @@ excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍�
 |:-----|:-----|----:|----:|----:|
 | main | main | 薛津麒 |  应懿 |  周金 |
 
-## 2022 ICPC 南京站
+## 47th ICPC Nanjing Regional
 
 志愿者：薛津麒
 
@@ -46,14 +46,14 @@ excerpt: 这里记录ICPC Group在2022年XCPC区域赛及以上的参赛队伍�
 |:-----|:-----|----:|----:|----:|
 | main | main | 潘飞扬 |  应懿 |  周金 |
 
-## 2022 ICPC 香港站
+## 47th ICPC Hong Kong Regional
 
 | 队伍          | Team          |  员一 | 队员二 | 队员三 |
 |:------------|:--------------|----:|----:|----:|
 | 从零开始的ICPC生活 | Zero to one   | 潘欣洁 |  王琦 | 陶柯蓉 |
 | SAO:WA神域    | SAO:WA online | 姜添翼 | 骆明宇 | 涂凯南 |
 
-## 2022 ICPC 上海站(东亚区域决赛)
+## 47th ICPC Shanghai East-Continental Final
 
 | 队伍  | Team | 队员一 | 队员二 | 队员三 |
 |:----|:-----|----:|----:|----:|

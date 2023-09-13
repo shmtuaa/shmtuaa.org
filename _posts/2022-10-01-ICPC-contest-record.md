@@ -5,6 +5,7 @@ author: icpc
 layout: post
 excerpt: 这里记录ICPC Group在ICPC/CCPC区域赛及以上的参赛队伍。
 ---
+### [2023学年XCPC参赛纪录](/icpc/contest_record_2023)
 
 ### [2022学年XCPC参赛纪录](/icpc/contest_record_2022)
 

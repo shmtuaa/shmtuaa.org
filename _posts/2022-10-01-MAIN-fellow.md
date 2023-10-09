@@ -14,11 +14,10 @@ _信息工程学院 人工智能_
 
 学校ICPC的创办者和学生教练。
 
-他现在访问于西湖大学人工智能研究与创新实验室，导师为[人工智能讲席教授李子青](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)。
+他访问于西湖大学[人工智能研究与创新实验室](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)。
 
 **Email**: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)  
 **GitHub**: [MonoHue](https://github.com/MonoHue)  
-**Google Scholar**: [Liangyu Li](https://scholar.google.com/citations?user=AcMka74AAAAJ)  
 **Blog**: [https://monohue.net](https://me.monohue.net)
 
 ### 孙思进
@@ -27,7 +26,7 @@ _信息工程学院 计算机科学与技术_
 
 学校ICPC选手。孙思进同学是最早期加入ICPC的同学之一。他协助形成了ICPC的社群和早期规范。
 
-他现在实习于Société Générale (Shanghai) Operation Department。
+他先后于Société Générale (Shanghai)、蔚来等公司实习。
 
 **Email**: [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org)
 
@@ -62,7 +61,7 @@ _信息工程学院 计算机科学与技术_
 就读于中国科学院大学（**U**niversity of **C**hinese **A**cademy of **S**ciences）工程科学学院，由于22年国庆节之后整个UCAS上了未证实名单，大概率是要在UCAS硕博连读了。
 
 **Email**: [luoxiang@shmtuaa.org](mailto:luoxiang@shmtuaa.org)  
-**Website**: [https://flandre.net](https://flandre.net)
+**Blog**: [https://flandre.net](https://flandre.net)
 
 ## 2017级
 

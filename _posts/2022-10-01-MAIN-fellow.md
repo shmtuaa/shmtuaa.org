@@ -38,11 +38,9 @@ _物流工程学院 自动化_
 
 他保研至中科院杭州高等研究院。
 
-**Email**: [lichike@shmtuaa.org](mailto:lichike@shmtuaa.org)
-
-GitHub: [InariInDream](https://github.com/InariInDream)
-
-Blog: https://inariindream.cn
+**Email**: [lichike@shmtuaa.org](mailto:lichike@shmtuaa.org)  
+**GitHub**: [InariInDream](https://github.com/InariInDream)  
+**Blog**: https://inariindream.cn
 
 ## 2019级
 

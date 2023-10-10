@@ -30,9 +30,10 @@ _信息工程学院 计算机科学与技术_
 
 他先后于[Société Générale](https://societegenerale.cn)、[蔚来](https://www.nio.cn)等公司实习。
 
-| 方式    | 信息                                                  |
-|:------|:----------------------------------------------------|
-| Email | [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org) |
+| 方式     | 信息                                                  |
+|:-------|:----------------------------------------------------|
+| Email  | [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org) |
+| GitHub | [StanleySun233](https://github.com/StanleySun233)   |
 
 ### 李驰科
 

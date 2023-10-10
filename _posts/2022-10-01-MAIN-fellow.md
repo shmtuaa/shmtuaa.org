@@ -26,7 +26,7 @@ _信息工程学院 计算机科学与技术_
 
 上海海事大学ICPC选手。孙思进同学是早期加入ICPC的同学之一。他协助形成了ICPC的社群和早期规范。
 
-他先后于Société Générale (Shanghai)、蔚来等公司实习。
+他先后于Société Générale、蔚来等公司实习。
 
 **Email**: [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org)
 
@@ -34,13 +34,13 @@ _信息工程学院 计算机科学与技术_
 
 _物流工程学院 自动化_
 
-上海海事大学ICPC选手。他开发的QQ机器人的Codeforces做题情况查询功能及比赛定时提醒功能在集训队群组内被广泛使用。他与外校ICPC选手交流密切，为集训队提供了大量的信息更新与交流机会。
+上海海事大学ICPC选手。李驰科同学开发的Codeforces自动查询推送机器人在ICPC得到了广泛使用。同时，他与外校ICPC选手交流密切，为集训队提供了大量的及时信息与交流机会。
 
-他保研至中科院杭州高等研究院。
+他保研至中国科学院杭州高等研究院。
 
 **Email**: [lichike@shmtuaa.org](mailto:lichike@shmtuaa.org)  
 **GitHub**: [InariInDream](https://github.com/InariInDream)  
-**Blog**: https://inariindream.cn
+**Blog**: [https://inariindream.cn](https://inariindream.cn)
 
 ## 2019级
 
@@ -48,9 +48,11 @@ _物流工程学院 自动化_
 
 _物流工程学院 电气工程及自动化_
 
-上海海事大学ICPC选手代表。杜逸杰同学是ICPC的奠基人之一。他长期担任ICPC的线下培训工作，为所有零基础同学提供教学。在他的指导下，数十位同学获得了蓝桥杯省级奖项，数位同学获得了国家级奖项。他保研至江南大学。
+上海海事大学ICPC选手代表。杜逸杰同学是ICPC的奠基人之一。他长期负责ICPC的训练，为所有不同水平的同学提供咨询。在他的指导下，数十位同学获得了蓝桥杯省级奖项，数位同学获得了国家级奖项。
 
-**Email**: [yijiedu@shmtuaa.org](mailto:yijiedu@shmtuaa.org)
+他保研至江南大学。
+
+**Email**: [duyijie@shmtuaa.org](mailto:yijiedu@shmtuaa.org)
 
 ### 周金
 
@@ -81,7 +83,7 @@ _信息工程学院 计算机科学与技术_
 
 _物流工程学院 自动化_
 
-上海海事大学ICPC选手代表。朱恩贝同学是ICPC的奠基人之一。他建立了ICPC与社团的联系，协助ICPC选手主持讲座，提供获得综合测评及第二课堂学分。作为C++专家，他长期为ICPC提供C++、C++编译器和Linux的咨询服务。
+上海海事大学ICPC选手代表。朱恩贝同学是ICPC的奠基人之一。他建立了ICPC与社团的联系，协助ICPC选手主持讲座，提供获得综合测评及第二课堂学分。作为C++专家，他长期为ICPC提供C++、C++编译器和Linux的咨询。
 
 他曾任微软亚洲研究院算法工程师（实习），目前就职于博达电子。
 

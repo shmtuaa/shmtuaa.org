@@ -30,6 +30,20 @@ _信息工程学院 计算机科学与技术_
 
 **Email**: [sunsijin@shmtuaa.org](mailto:sunsijin@shmtuaa.org)
 
+### 李驰科
+
+_物流工程学院 自动化_
+
+上海海事大学ICPC选手。他开发的QQ机器人的Codeforces做题情况查询功能及比赛定时提醒功能在集训队群组内被广泛使用。他与外校ICPC选手交流密切，为集训队提供了大量的信息更新与交流机会。
+
+他保研至中科院杭州高等研究院。
+
+**Email**: [lichike@shmtuaa.org](mailto:lichike@shmtuaa.org)
+
+GitHub: [InariInDream](https://github.com/InariInDream)
+
+Blog: https://inariindream.cn
+
 ## 2019级
 
 ###  杜逸杰

@@ -14,7 +14,7 @@ _信息工程学院 - 人工智能_
 
 上海海事大学ICPC的创办者和学生教练。
 
-他在对冲基金任量化策略研究员，也是[西湖大学人工智能研究与创新实验室](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)的访问学生。
+他在对冲基金任量化交易员，也是[西湖大学人工智能研究与创新实验室](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)的访问学生。
 
 | 方式     | 信息                                                    |
 |:-------|:------------------------------------------------------|
@@ -27,7 +27,7 @@ _信息工程学院 - 计算机科学与技术_
 
 上海海事大学ICPC选手。孙思进同学是早期加入ICPC的同学之一。他协助形成了ICPC的社群和早期规范。
 
-他先后于[Société Générale](https://societegenerale.cn)、[蔚来](https://www.nio.cn)等公司实习。
+他先后于[Société Générale](https://societegenerale.cn)、[蔚来](https://www.nio.cn)等公司实习，现在在[新加坡国立大学](https://nus.edu.sg)攻读硕士。
 
 | 方式     | 信息                                                  |
 |:-------|:----------------------------------------------------|

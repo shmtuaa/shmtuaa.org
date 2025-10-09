@@ -14,9 +14,7 @@ _信息工程学院 - 人工智能_
 
 海智人工智能部长。
 
-他是[Kaggle专家](https://www.kaggle.com/progression)，曾获得[Kaggle](https://www.kaggle.com)银牌。
-
-他目前访问于[新加坡国立大学药学院眼科系](https://medicine.nus.edu.sg/medoph)，正在申请新加坡国立大学博士。
+他是[Kaggle Master](https://www.kaggle.com/horikitasaku)，曾获得[Kaggle](https://www.kaggle.com)金牌。
 
 | 方式     | 信息                                                          |
 |:-------|:------------------------------------------------------------|

@@ -19,7 +19,7 @@ _信息工程学院 - 人工智能_
 | 方式     | 信息                                                          |
 |:-------|:------------------------------------------------------------|
 | Email  | [saku2696983188@gmail.com](mailto:saku2696983188@gmail.com) |
-| GitHub | [YuXuan Wu](https://horikitasaku.github.io/en/)             |
+| Blog | [horikitasaku.github.io](https://horikitasaku.github.io/en/)             |
 
 ## 2020级
 

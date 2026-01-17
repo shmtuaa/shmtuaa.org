@@ -29,9 +29,6 @@ _信息工程学院 - 人工智能_
 
 上海海事大学ICPC的创办者和学生教练。
 
-他现在在对冲基金任量化交易员。以前是[西湖大学人工智能研究与创新实验室](https://www.westlake.edu.cn/ffaculty/stan-zq-li.html)
-的访问学生。
-
 | 方式     | 信息                                                    |
 |:-------|:------------------------------------------------------|
 | Email  | [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org) |
@@ -44,7 +41,7 @@ _信息工程学院 - 计算机科学与技术_
 上海海事大学ICPC选手。孙思进同学是早期加入ICPC的同学之一。他协助形成了ICPC的社群和早期规范。
 
 他先后于[Société Générale](https://societegenerale.cn)、[蔚来](https://www.nio.cn)
-等公司实习，现在在[新加坡国立大学](https://nus.edu.sg)攻读硕士，现在在[A*STAR(新加坡科学院)](https://www.a-star.edu.sg/ihpc)实习。
+等公司实习。在[新加坡国立大学](https://nus.edu.sg)攻读硕士，在[A*STAR(新加坡科学院)](https://www.a-star.edu.sg/ihpc)实习。
 
 | 方式     | 信息                                                  |
 |:-------|:----------------------------------------------------|

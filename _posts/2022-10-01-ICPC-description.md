@@ -20,7 +20,6 @@ layout: post
 
 ***更多信息***
 
-**执行委员会**: [https://shmtuaa.org/icpc/council](https://shmtuaa.org/icpc/council)  
 **选手ID索引**: [https://shmtuaa.org/icpc/id](https://shmtuaa.org/icpc/id)  
 **参赛记录**: [https://shmtuaa.org/icpc/contest_record](https://shmtuaa.org/icpc/contest_record)  
 **获奖记录**: [https://shmtuaa.org/icpc/award](https://shmtuaa.org/icpc/award)  
